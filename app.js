@@ -1,6 +1,6 @@
+const fs = require("fs");
 const cheerio = require("cheerio");
 const request = require("request-promise");
-const fs = require("fs");
 
 const HOST = "https://123job.vn/tuyen-dung";
 
