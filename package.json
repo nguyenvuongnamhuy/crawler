@@ -1,8 +1,8 @@
 {
-  "name": "crawlerdata",
+  "name": "crawler-data",
   "version": "1.0.0",
-  "description": "crawl data",
-  "main": "index.js",
+  "description": "crawl data from web using nodejs & cheerio",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
